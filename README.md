@@ -1,5 +1,7 @@
 # Trek Convertor
 
+![Demonstration](./demonstration.svg)
+
 The "Trek Convertor" script was written to fit a very niche problem for owners of the *Star Trek: The Complete Comic Book Collection* DVD. If you are unfamiliar with the DVD, or wish for more information, you can find out more at the Memory Alpha wikipage [here](https://memory-alpha.fandom.com/wiki/Star_Trek:_The_Complete_Comic_Book_Collection?file=Complete_Comic_Book_Collection_cover.jpg). 
 
 ---
