@@ -1,4 +1,4 @@
-# Trek Convertor
+# Trek Converter
 
 ![Demonstration](./demonstration.svg)
 
